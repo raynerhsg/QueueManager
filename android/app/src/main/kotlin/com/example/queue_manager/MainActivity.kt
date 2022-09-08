@@ -1,0 +1,6 @@
+package com.example.queue_manager
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
